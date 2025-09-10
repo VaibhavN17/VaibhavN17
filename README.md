@@ -11,9 +11,10 @@ Fun Facts:
 ♟️ I enjoy playing chess and tackling complex strategies on and off the board.
 📚 An avid reader, I enjoy books of all types and am always looking to expand my knowledge.
 ⚡ Fun Fact: I'm only 19 but already working on building a diverse skill set!
+this is pickup from chatgpt😅😅
 
 Connect with Me:
-📫 Reach out via email: mrmorevaibhav9923@gmail.com
+📫 Reach out via email: themorevaibhav@gmail.com
 😄 Pronouns: Vaibhav
 
 <!---
