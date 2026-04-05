@@ -1,121 +1,168 @@
-# 👋 Hi, I'm Vaibhav
+# 👋 Hello, I'm Vaibhav More
 
-🎓 Computer Science Engineering Student  
-💻 Full Stack Developer | ML Enthusiast  
-📍 Maharashtra, India  
+**Full Stack Developer | AI/ML Enthusiast | Problem Solver**
 
----
-
-## 🚀 About Me
-
-I'm a passionate developer who enjoys building scalable web applications and exploring machine learning systems. I like solving real-world problems using technology and continuously improving my skills in full stack development and AI.
+📍 Vaijapur, Maharashtra, India | 📧 [mvaibhavsantosh@gmail.com](mailto:mvaibhavsantosh@gmail.com) | 📱 +91-8010741843  
+🎂 DOB: 17/06/2005
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 About Me
 
-### 💻 Programming Languages
-- C++
-- Java
-- Python
-- C#
-- .NET
+I'm a passionate developer currently pursuing a **Diploma in Computer Science and Engineering** from Sanjivani University (Expected 2027). With hands-on experience in full-stack development, AI/ML, and problem-solving, I'm dedicated to building scalable applications and contributing to innovative projects that make a real impact.
 
-### 🌐 Web Development
-- HTML, CSS
-- React.js
-- Angular
-- Spring Boot
+**Career Objective:** To secure a responsible position in a dynamic organization where I can leverage my technical expertise, continuously learn emerging technologies, and contribute meaningfully to challenging projects.
 
-### 🗄️ Databases
-- MySQL
-- MongoDB
+---
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- Postman
+## 💻 Technical Skills
 
-### 📚 Core Concepts
+### **Programming Languages**
+- C++, Java, Python, C#, .NET
+
+### **Frontend Development**
+- HTML5, CSS3
+- React.js, Angular
+- Responsive UI/UX Design
+
+### **Backend Development**
+- Spring Boot, Flask
+- RESTful API Development
+- MVC Architecture
+
+### **Databases**
+- MySQL, MongoDB
+- CRUD Operations, Data Modeling
+
+### **Tools & Platforms**
+- Git, GitHub, VS Code, Eclipse, IntelliJ
+- Postman (API Testing)
+- Linux, Windows
+
+### **Core Concepts**
 - Data Structures & Algorithms
-- OOP
-- DBMS
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Machine Learning, Natural Language Processing (NLP)
+- Agile Development Methodologies
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
-### Full Stack Development Intern  
-**HCL Technologies (Virtual)**  
-📅 May 2025 – June 2025  
-
-- Built full stack applications using Angular, Spring Boot, and MySQL  
-- Developed REST APIs for secure CRUD operations  
-- Created responsive UI components  
-- Worked in Agile environment with code reviews and standups  
+| Qualification | Institution | Year | Marks/GPA |
+|---------------|-------------|------|-----------|
+| **2nd Year Diploma** | Sanjivani University, Mumbai | 2027 | 7.84 CGPA |
+| **Diploma in CSE** | Matoshree Institute of Technology, Dhanore | 2024 | 81.66% |
+| **SSC** | Kailas Patil Vidhyalaya, Vaijapur | 2021 | 92.60% |
 
 ---
 
-## 📂 Projects
+## 💼 Professional Experience
 
-### 🤖 Smart AI Assistant
-- Built an AI assistant using NLP for answering queries and automating tasks  
-- Integrated speech-to-text and text-to-speech  
-- Added contextual learning for personalized responses  
+### **Full Stack Development Intern**
+**HCL Technologies, Chennai** | *May 12, 2025 – June 20, 2025* (Virtual)
 
-**Tech:** Python, ML, NLP, APIs  
-
----
-
-### 📢 Message Broadcasting System
-- Developed system to send bulk messages to users  
-- Implemented role-based access control  
-- Built analytics dashboard for tracking  
-
-**Tech:** Java, Spring Boot, React, MySQL  
+- Developed full-stack applications using **Angular**, **Spring Boot**, and **MySQL**
+- Designed and implemented secure **REST APIs** with Spring Boot for CRUD operations
+- Built interactive, responsive frontend components in **Angular**
+- Integrated **MySQL** database for efficient data storage and retrieval
+- Collaborated in an **Agile environment** with daily stand-ups and code reviews
 
 ---
 
-### 🛒 Order Management System
-- Built system to manage orders, customers, and inventory  
-- Implemented CRUD operations with real-time tracking  
-- Added invoice generation and reporting  
+## 🚀 Key Projects
 
-**Tech:** Java, Spring Boot, Angular/React, MySQL  
+### **1. Smart AI Assistant** (Group Project)
+**Role:** ML Developer, System Integrator  
+**Tech Stack:** Python, Machine Learning, NLP, APIs (Speech Recognition, Chat Integration)
 
----
+- Created an AI assistant with natural language processing capabilities for intelligent question-answering
+- Integrated **speech-to-text** and **text-to-speech** modules for hands-free interaction
+- Implemented **contextual learning** to provide personalized recommendations
+- Designed system architecture for seamless integration of multiple AI modules
 
-## 🎓 Certifications
+### **2. MSBT - Message Broadcasting System**
+**Tech Stack:** Java, Spring Boot, MySQL, React/Angular, REST APIs
 
-- Oracle Certified Java Course  
-- Oracle AI & ML Course  
-- NPTEL – Algorithm Design & Analysis  
+- Designed a scalable bulk messaging platform for multi-user communication campaigns
+- Implemented **role-based access control (RBAC)** for admins and moderators
+- Developed an **analytics dashboard** with real-time message delivery tracking
+- Features include campaign management, delivery reports, and engagement metrics
+- Optimized database queries for handling high-volume message processing
 
----
+### **3. Order Management System**
+**Tech Stack:** Java, Spring Boot, Angular, React, MySQL
 
-## 🧠 Interests
-
-- Solving DSA problems on LeetCode  
-- Machine Learning Systems  
-- Full Stack Development  
-
----
-
-## 🎯 Goals
-
-- Become a skilled Full Stack + ML Engineer  
-- Build impactful real-world applications  
-- Contribute to open source  
-
----
-
-## 📫 Contact Me
-
-📧 Email: mvaibhavsantosh@gmail.com  
-📧 Alternate: themorevaibhav@gmail.com  
+- Built a comprehensive web-based order management system for inventory and customer management
+- Implemented full **CRUD operations** for orders, products, and inventory tracking
+- Integrated **real-time order status tracking** system for customer visibility
+- Added **invoice generation** and advanced reporting capabilities for business intelligence
+- Designed responsive UI with Angular/React for seamless user experience
+- Implemented data validation and error handling throughout the system
 
 ---
 
-⭐ If you like my work, consider giving a star!
+## 🏆 Certifications & Workshops
+
+### **Certifications**
+- ✅ **NPTEL Certification:** Fundamentals of Algorithm Design and Analysis
+- ✅ **Oracle Certified Java Course:** Core Java, OOP, Exception Handling, JDBC
+- ✅ **Oracle AI & ML Course:** AI Fundamentals, Machine Learning, Real-world Applications
+
+### **Workshops & Seminars**
+- 🎓 **Hyperspectrum Workshop** (8 Days) – Advanced spectrum analysis by Professors from Taiwan
+- 🎓 **Flask API Development Seminar** (1 Day) – Building RESTful APIs using Flask (Python)
+- 🎓 **NO-Code Application Development** – Building applications using AI prompts and automation
+
+---
+
+## 🧠 Problem-Solving & Competitive Programming
+
+- Actively solving **Data Structures & Algorithms** problems on **LeetCode**
+- Focus on improving logical thinking and coding efficiency
+- Regular practice with C++ and Java for algorithmic challenges
+- Optimizing solutions for time and space complexity
+
+---
+
+## 🎮 Hobbies & Interests
+
+- 🧩 Competitive Programming (LeetCode, HackerRank)
+- 🏏 Cricket
+- ✈️ Travelling
+- 🎬 Anime Watching
+
+---
+
+## 🎯 What I'm Open To
+
+- 🤝 Full Stack Development Opportunities
+- 🤖 AI/ML Projects and Research
+- 💼 Internships & Graduate Programs
+- 🚀 Open Source Contributions
+- 📚 Learning & Mentorship
+
+---
+
+## 📊 GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavN17&show_icons=true&theme=radical)](https://github.com/VaibhavN17)
+
+---
+
+## 📬 Get in Touch
+
+- 💼 **Email:** [mvaibhavsantosh@gmail.com](mailto:mvaibhavsantosh@gmail.com)
+- 📱 **Alternative Email:** [themorevaibhav@gmail.com](mailto:themorevaibhav@gmail.com)
+- 📱 **Phone:** +91-8010741843
+- 💻 **GitHub:** [@VaibhavN17](https://github.com/VaibhavN17)
+- 🌐 **LinkedIn:** [Add your LinkedIn URL here]
+
+---
+
+**_"Code is like humor. When you have to explain it, it's bad." – Cory House_**
+
+---
+
+*Last Updated: April 2026* ⭐ Star this repo if you found it helpful!
