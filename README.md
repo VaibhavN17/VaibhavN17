@@ -3,7 +3,7 @@
 **Full Stack Developer | AI/ML Enthusiast | Problem Solver**
 
 📍 Vaijapur, Maharashtra, India | 📧 [mvaibhavsantosh@gmail.com](mailto:mvaibhavsantosh@gmail.com) | 📱 +91-8010741843  
-🎂 DOB: 17/06/2005
+🎂 DOB: 17/06/2005 https://VaibhavN17.github.io/portfolio 
 
 ---
 
