@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/VaibhavN17?label=Follow&style=social)](https://github.com/VaibhavN17)
 [![GitHub stars](https://img.shields.io/github/stars/VaibhavN17?style=social)](https://github.com/VaibhavN17)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-more)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-more-42a553291)
 [![Email](https://img.shields.io/badge/Email-vaibhavm.eng@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:vaibhavm.eng@gmail.com)
 
 ---
